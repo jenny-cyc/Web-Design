@@ -1,0 +1,15 @@
+h1 {
+  font: Georgia;
+  text-transform: uppercase;
+  color: #111111;
+  text-shadow: 2px 2px 7px #444444;
+}
+
+body {
+  text-align: center;
+  background-image: url("https://thedesignest.net/wp-content/uploads/2019/12/Cloud-White-Marble-Background.jpg");
+}
+
+img{
+  border-radius: 16em
+}
