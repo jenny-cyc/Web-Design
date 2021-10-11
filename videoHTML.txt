@@ -8,7 +8,7 @@
     
       iframe{
       
-        VIDEO LAYOUT HERE
+        <! -- VIDEO LAYOUT HERE -->
         ____________
       
       
@@ -18,10 +18,10 @@
 
       blockquote::first-letter{
       
-        CHANGE FONT WEIGHT TO BOLD
+        <! -- CHANGE FONT WEIGHT TO BOLD -->
         __________________
         
-        CHANGE FONT SIZE TO 1.5em
+        <! -- CHANGE FONT SIZE TO 1.5em -->
         __________________
 
       }
@@ -35,7 +35,7 @@
       <div id="benefits">
       
 
-        ADD VIDEO HERE
+        <! -- ADD VIDEO HERE -->
         _______________________________
         _______________________________________
         __________
@@ -55,7 +55,7 @@
         <div id="space">
         
         
-        ADD QUOTE HERE
+        <! -- ADD QUOTE HERE -->
         _______________________________________________
         _______________________________________________
         _______________________________________________
