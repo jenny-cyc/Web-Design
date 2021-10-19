@@ -18,6 +18,21 @@
       }
 
     </style>
+    
+     <script>
+        function toggleTheme() {
+
+            var theme = document.getElementsByTagName('link')[0];
+
+            if (theme.getAttribute('href') == 'style1.css') {
+                theme.setAttribute('href', 'style2.css');
+            } else {
+                theme.setAttribute('href', 'style1.css');
+            }
+        }
+      
+    </script>
+    
   </head>
   <body>
     <h1>Benefits Of Music</h1>
