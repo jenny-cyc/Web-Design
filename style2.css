@@ -1,0 +1,107 @@
+h1{
+  margin-top: 2.5em;
+  font-size: 3em;
+  text-shadow: 1px 0px 2px gray;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  line-height: 2em;
+}
+
+section{
+  padding: 10px;
+  margin: 15px;
+  overflow: auto;
+  padding: 10px 20px 10px 20px;
+  margin: 10px auto 10px auto;
+  display: block;
+  margin: 20px auto;
+  width: 970px;
+}
+figure{
+  float: left;
+}
+
+#content img{
+  padding: 1px;
+  margin: 10px;
+  border: 3px inset black;
+}
+
+body{
+  background-image: linear-gradient(to left, #DDF7ED, white, #A9C4DE);
+  background-attachment: fixed;
+  padding: 15px;
+  min-width: 500px;
+}
+
+
+div img{
+  display: block;
+  margin: 0px auto 10px auto;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+
+iframe{
+	margin: 0px 60px 15px 15px ;
+}
+
+h1{
+	margin-bottom: 1em;
+}
+
+#benefits{
+	overflow: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#specific_benefits p{
+	text-indent: 20px;
+	line-height: 2em;
+	max-width: 1200px;
+	margin: 40px;
+	display:block;
+}
+
+#specific_benefits{
+	display: block;
+	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#specific_benefits blockquote, h2{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+blockquote{
+	width: 20%;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	padding: 15px;
+	float: left;
+	margin: 30px;
+}
+
+#content{
+	display: block;
+	max-width:1400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#space{
+	display: block;
+	margin: 2em;
+}
