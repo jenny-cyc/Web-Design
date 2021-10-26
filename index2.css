@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title>Index</title>
+    <script src="/rotatecss.js"></script>
+    <link rel="stylesheet" href="style1.css">
+  </head>
+  <body>
+    <h1>Web Design Index</h1>
+    <table>
+      
+        <tr class="Exercise">
+        <td>Week 1 - 2</td>
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="Week1_intro.html">HTML Basic Website</a></td>
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="Week1_intro.txt">HTML Basic Code</a></td>
+        </tr>
+      
+        <tr class="Exercise">
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="JSFiddle_Project1.html">HTML JSFiddle Project #1 Website</a></td>
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="JSFiddle_Project1.txt">HTML JSFiddle Project #1 Code</a></td>
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="JSFiddle_Project1_With_CSS.html">CSS JSFiddle Project #1 Website</a></td>
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="JSFiffle_Project1_CSS.txt">CSS JSFiddle Project #1 Code</a></td>
+        </tr>
+      
+      
+        <tr class="Exercise">
+        <td></td>
+        </tr>
+      
+      
+        <tr class="Exercise">
+        <td>Week 3</td>
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="video.html">Embed Video and Blockquote</a></td>
+        </tr>
+      
+        <tr class="Exercise">
+        <td></td>
+        <td><a href="videoHTML.txt">Video HTML Code</a></td>
+        </tr>
+      
+      <tr class="Exercise">
+        <td></td>
+        <td><a href="videoCSS.txt">Video CSS Code</a></td>
+        </tr>
+
+     </table>
+
+   <footer>
+     <a href=""></a>
+   </footer>
+
+  </body>
