@@ -1,0 +1,49 @@
+h1{
+  padding: 1em;
+  padding-bottom: .5em;
+  font-size: 2.5em;
+}
+
+h4{
+  padding-top: 0;
+  padding-bottom: .5em;
+}
+
+
+table{
+  display: inline-block;
+}
+
+body{
+  text-align: center;
+  background-image: linear-gradient(to left, #DDF7ED, white, #A9C4DE);
+}
+
+td, td a{
+  color: black;
+  text-decoration: none;
+  margin: .75em;
+  text-align: left;
+}
+
+td{
+  padding: 1em;
+  font-size: 1.2em;
+}
+
+footer a{
+  color: black;
+  text-decoration: none;
+  display: inline-block;
+  padding: 2em;
+  margin-top: 4em;
+}
+
+tr{
+  display: block;
+}
+
+.break{
+  border-bottom: 1px solid gray;
+  margin-bottom: 1.5em;
+}
