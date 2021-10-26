@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <link rel="stylesheet" href="style1.css">
+    <title>Benefits</title>
+    <style>
+      iframe{
+        float: right;
+        margin: 0px 60px 15px 15px ;
+      }
+
+      
+      blockquote::first-letter{
+        font-weight: bold;
+        font-size: 1.5em;
+      }
+
+    </style>
+    
+     <script>
+        function __________() {
+
+            var theme = document.getElementsByTagName('link')[0];
+
+            if (theme.getAttribute('href') == 'style1.css') {
+                theme.setAttribute('href', 'style2.css');
+            } else {
+                theme.setAttribute('href', 'style1.css');
+            }
+        }
+      
+    </script>
+    
+  </head>
+  <body>
+    <h1>Benefits Of Music</h1>
+    <div id="content">
+      <div id="benefits">
+        <iframe width="550" height="380"
+        src="https://www.youtube.com/embed/R0JKCYZ8hng">
+        </iframe>
+        <p>Studies show music and music education can have a profound impact on mental and
+           physical health for students of all ages, from helping kids learn to read to preventing
+           hearing loss in adults, and much more.When you listen to music, multiple areas of your brain become engaged and active. But when you actually
+          play an instrument, that activity becomes more like a full-body brain workout!</p>
+
+        <br />
+
+        <p>Video Source: <i>TED-Ed. “How Playing an Instrument Benefits Your Brain - Anita Collins.” YouTube, YouTube, 22 July 2014, www.youtube.com/watch?v=R0JKCYZ8hng.</i></p>
+      </div>
+      <div id="specific_benefits">
+        <h2>How Seniors Benefits From Music</h2>
+        <div id="space">
+          <blockquote cite="https://msutoday.msu.edu/journalists/expert/frederick-tims/">
+            “We feel strongly that abundant health benefits can be achieved by older adults who learn to make
+            music in a supportive, socially enjoyable setting. We are just beginning to understand the positive
+             effects of making music on our bodies and our physical health.” - Dr. Frederick Tims
+          </blockquote>
+        </div>
+        <p>Music keeps your ears young. Older musicians don’t experience typical aging in the part of the
+         brain (the auditory cortex) that often leads to hearing troubles.
+         Music has been found to stimulate parts of the brain, and studies have demonstrated that music
+          enhances the memory of Alzheimer's and dementia patients, including a study conducted at UC Irvine,
+          which showed that scores on memory tests of Alzheimer's patients improved when they listened to
+          classical music.</p>
+
+        <p>Stanford University School of Medicine conducted a study with 30 depressed people over 80 years
+           of age and found that participants in a weekly music therapy group were less anxious, less
+           distressed and had higher self-esteem.</p>
+
+        <h2>How Children Benefits From Playing Music</h2>
+
+        <p>Music is really beneficial and important for children. Playing a musical instrument strengthens
+          eye-hand coordination and fine motor skills, and kids who study an instrument learn a lot about
+          discipline, dedication and the rewards of hard work. A study at the University of California at
+            Irvine demonstrated that young kids who participated
+           in music instruction showed dramatic enhancements in abstract reasoning skills. In fact,
+           researchers have found neural firing patterns that suggest that music may hold the key to higher
+            brain function.</p>
+
+        <p>Aother research conducted by McGill University in Montreal, Canada showed that grade-school kids who took music
+            lessons scored higher on tests of general and spatial cognitive development, the abilities that
+            form the basis for performance in math and engineering.</p>
+      </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    
+    
+    // CREATE BUTTON TO CHANGE THEME
+    ___________________________________
+    
+    
+  </body>
+</html>
