@@ -31,7 +31,7 @@ function checkKey(e) {
 
 function changeCSS(styleNo, prevStyleNo) {
 
-    var oldlink = document.querySelector('link[href="style'+prevStyleNo+'.css"]');
+    var oldlink = document.querySelector('link[href="FPstyle'+prevStyleNo+'.css"]');
     if(oldlink) {
     	oldlink.remove();
     }
@@ -39,7 +39,7 @@ function changeCSS(styleNo, prevStyleNo) {
     var newlink = document.createElement("link");
     newlink.setAttribute("rel", "stylesheet");
     newlink.setAttribute("type", "text/css");
-    newlink.setAttribute("href", "style"+currentStyle+".css");
+    newlink.setAttribute("href", "FPstyle"+currentStyle+".css");
 
     document.getElementsByTagName("head").item(0).appendChild(newlink);
 }
